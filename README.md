@@ -20,5 +20,5 @@ A simple Java application to input, manage, and analyze student grades using arr
 - Java (JDK 8+)
 - Java Swing (for GUI version)
 - Array / ArrayList
-- (Optional) Apache POI / iText for export
+- Apache POI / iText for export
 
