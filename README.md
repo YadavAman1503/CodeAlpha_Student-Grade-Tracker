@@ -1,4 +1,4 @@
-# CodeAlpha_Student-Grade-Tracker
+# Student-Grade-Tracker
 A Java-based application to manage and analyze student grades.
 A simple Java application to input, manage, and analyze student grades using arrays or ArrayLists. It supports average, highest, and lowest score calculation with a console or GUI interface.
 
